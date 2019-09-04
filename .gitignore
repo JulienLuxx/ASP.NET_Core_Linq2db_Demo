@@ -3,3 +3,5 @@
 ################################################################################
 
 /CoreDemo/.vs/CoreDemo/v16
+/CoreDemo/CoreDemo.Core/obj
+/CoreDemo/CoreDemo.Domain/obj
