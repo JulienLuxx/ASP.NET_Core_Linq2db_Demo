@@ -5,3 +5,5 @@
 /CoreDemo/.vs/CoreDemo/v16
 /CoreDemo/CoreDemo.Core/obj
 /CoreDemo/CoreDemo.Domain/obj
+/CoreDemo/.vs/CoreDemo/DesignTimeBuild/.dtbcache
+/CoreDemo/CoreDemo.Core/bin/Debug/netcoreapp2.2
