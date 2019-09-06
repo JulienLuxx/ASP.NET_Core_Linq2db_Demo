@@ -10,3 +10,5 @@
 /CoreDemo/CoreDemo.Domain/bin/Debug/netcoreapp2.2
 /CoreDemo/CoreDemo.Service/obj
 /CoreDemo/CoreDemo.Service/bin/Debug/netcoreapp2.2
+/CoreDemo/CoreDemo.UnitTest/obj
+/CoreDemo/CoreDemo.UnitTest/bin/Debug/netcoreapp2.2
